@@ -1,9 +1,10 @@
 💎 Goldyfy – Modern Jewelry Landing Page
-A minimal, elegant, and responsive landing page for GOLDYFY, focused on smooth interactions, clean layouts, and a luxurious user experience.
+
+A minimal, elegant and responsive landing page for GOLDYFY focused on smooth interactions, clean layouts and a luxurious user experience.
 
 
 🌟 Key Features
-Responsive design for all devices
+Responsive design's
 
 Interactive product galleries
 
