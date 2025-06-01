@@ -29,5 +29,3 @@ git clone https://github.com/VikramGanesh06/Goldyfy-modern-landing.git
 👤 Author
 Vikram Ganesh
 GitHub: @VikramGanesh06
-
-⭐ Star the repo if you like it!
